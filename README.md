@@ -1,5 +1,5 @@
 # aws-nodejs-sample-codebuild
-This project is abput deploying NodeJs application in AWS using ElasticBeanstalk and CICD pipeline.
+This project is about deploying NodeJs application in AWS using ElasticBeanstalk and CICD pipeline.
 I used is here is sample NodeJs existing application and deployed it using AWS Codepipeline, Beanstalk 
 
 Create a highly available and fault tolerant architecture for your NodeJS applications with a few simple clicks using AWS Elastic Beanstalk.
